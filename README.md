@@ -1,3 +1,4 @@
+I could not find the same image that was used in scrimba.
 # [SDF06] Project: Mobile App
 
 # Project Brief: Build a Mobile App with Firebase
